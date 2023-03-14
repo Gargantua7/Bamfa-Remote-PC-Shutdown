@@ -26,3 +26,11 @@ javaw -jar <jarfile> <uid> <topic> <command>
 javaw -jar bamfa-shutdown.jar xxxxxxxxxxxx Computer001 -s -t 10
 ```
 
+## 内置指令
+> off
+
+关闭电脑
+
+> exit
+
+退出程序
